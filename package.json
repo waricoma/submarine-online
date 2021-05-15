@@ -28,7 +28,7 @@
     "babel-preset-env": "^1.7.0",
     "semistandard": "^13.0.1",
     "webpack": "3.10.0",
-    "webpack-cli": "^3.3.0"
+    "webpack-cli": "3.3.12"
   },
   "semistandard": {
     "ignore": [

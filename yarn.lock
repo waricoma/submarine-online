@@ -4671,9 +4671,7 @@ socket.io-parser@~3.3.0:
     isarray "2.0.1"
 
 socket.io@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/socket.io/-/socket.io-2.2.0.tgz#f0f633161ef6712c972b307598ecd08c9b1b4d5b"
-  integrity sha512-wxXrIuZ8AILcn+f1B4ez4hJTPG24iNgxBBDaJfT6MsyOhVYiTXWexGoPkd87ktJG8kQEcL/NBvRi64+9k4Kc0w==
+  version "2.4.0"
   dependencies:
     debug "~4.1.0"
     engine.io "~3.3.1"
